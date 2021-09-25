@@ -1,4 +1,4 @@
-module github.com/youngkin/tview
+module github.com/rivo/tview
 
 go 1.12
 
